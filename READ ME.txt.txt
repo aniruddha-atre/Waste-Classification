@@ -1,0 +1,6 @@
+This is a sample project for Waste Classification model using pretrained weights of MobileNetV2 model, implemented using PyTorch.
+
+The dataset is opensource, downloaded from Kaggle -
+https://www.kaggle.com/datasets/asdasdasasdas/garbage-classification/data
+
+The model achieves a validation accuracy of 96%.
